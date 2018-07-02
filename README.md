@@ -4,6 +4,7 @@ Movie Flicks app shows the latest movies currently playing in theaters. The app 
 To build an app to help users discover popular and recent movies. 
 Build a clean UI, sync to a server, and present information to the user.
 
+Please add The_Movie_DB_API key in the 'NetworkUtils.java' file.
 
 ## Open-source libraries used
 
