@@ -1,6 +1,8 @@
-# PopularMoviesApp1
-To build an app to help users discover popular and recent movies. You will build a clean UI, sync to a server, and present information to the user.
+# PopularMoviesApp1 -- MovieFlicks
 Movie Flicks app shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+
+To build an app to help users discover popular and recent movies. 
+Build a clean UI, sync to a server, and present information to the user.
 
 
 ## Open-source libraries used
